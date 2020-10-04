@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ball()
+comment1.params=x\ y\ xv\ yv\ r
+comment1.target=ball(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ setMe()
+comment3.params=g
+comment3.target=void\ drawMe(java.awt.Graphics)
+comment4.params=g
+comment4.target=void\ eraseMe(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ moveMe()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=xpos\ ypos\ l\ w\ t
+comment0.target=brick(int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ setMe()
+comment2.params=g
+comment2.target=void\ drawMe(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ eraseMe(java.awt.Graphics)
+comment4.params=Amount
+comment4.target=void\ setNumbBricks(int)
+comment5.params=
+comment5.target=void\ resetMe()
+numComments=6
