@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=wall()
-comment1.params=ux1\ uy1\ ux2\ uy2\ s
-comment1.target=wall(int,\ int,\ int,\ int,\ java.lang.String)
-comment2.params=g
-comment2.target=void\ drawMe(java.awt.Graphics)
-numComments=3
